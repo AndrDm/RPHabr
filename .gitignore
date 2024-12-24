@@ -3,13 +3,13 @@
 *.llb
 
 # Shared objects (inc. Windows DLLs)
-*.dll
+# *.dll
 *.so
 *.so.*
 *.dylib
 
 # Executables
-*.exe
+# *.exe
 
 # Metadata
 *.aliases
